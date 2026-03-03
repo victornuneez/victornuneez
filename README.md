@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=📍+Asunción%2C+Paraguay+🇵🇾;🐧+Estudiante+CodePRO+%40+Penguin+Academy;🏆+Team+Lead+%40+HackathonPenguin;🔐+Apasionado+por+Seguridad+y+Microservicios;🚀+%22Si+falla+lo+depuro.+Si+funciona+lo+escalo.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=📍+Asunción%2C+Paraguay+🇵🇾;🐧+Estudiante+CodePRO+%40+Penguin+Academy;🏆+Team+Lead+%40+HackathonPenguin;📚+Siempre+aprendiendo%2C+siempre+construyendo;🚀+%22Si+falla+lo+depuro.+Si+funciona+lo+escalo.%22)](https://git.io/typing-svg)
 
 </div>
 
