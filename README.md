@@ -12,7 +12,7 @@
 
 Soy desarrollador fullstack con orientación backend, formado en el programa **CodePRO de Penguin Academy**, donde actualmente también me desempeño como **Supervisor del programa**.
 
-Construyo aplicaciones completas: desde APIs REST y arquitecturas de microservicios en **Node.js y Python**, hasta interfaces con **React** y **Vanilla JS**. Me enfoco en escribir código limpio, estructurado y seguro — porque para mí las buenas prácticas no son opcionales.
+Construyo aplicaciones completas: desde APIs REST y arquitecturas de microservicios en **Node.js**, hasta interfaces con **React** y **Vanilla JS**. Me enfoco en escribir código limpio, estructurado y seguro — porque para mí las buenas prácticas no son opcionales.
 
 📍 Asunción, Paraguay &nbsp;|&nbsp; CodePRO @ Penguin Academy
 
