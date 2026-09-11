@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Victor+Nuñez+👋;Fullstack+Developer+Jr.+%7C+Backend-oriented+🚀;Node.js+%7C+React+%7C+Python+%7C+MongoDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Victor+Nuñez+👋;Fullstack+Developer+Jr.;JavaScript+%7C+Node.js+%7C+React+%7C+MongoDB)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/victornuneez/victornuneez/main/matrix.svg" width="700" alt="Matrix Rain"/>
 
@@ -10,31 +10,29 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador fullstack con orientación backend, formado en el programa **CodePRO de Penguin Academy**, donde actualmente también me desempeño como **Supervisor del programa**.
+Soy **Fullstack Developer Jr.**, formado en el programa **CodePRO de Penguin Academy**.
 
-Construyo aplicaciones completas: desde APIs REST y arquitecturas de microservicios en **Node.js**, hasta interfaces con **React** y **Vanilla JS**. Me enfoco en escribir código limpio, estructurado y seguro — porque para mí las buenas prácticas no son opcionales.
+Mi principal experiencia práctica está enfocada en **JavaScript, Node.js, Express y MongoDB**, desarrollando aplicaciones web completas, APIs REST, sistemas de autenticación, persistencia de datos y arquitecturas organizadas por responsabilidades.
 
-📍 Asunción, Paraguay &nbsp;|&nbsp; CodePRO @ Penguin Academy
+También tengo experiencia trabajando con **React, Vanilla JS y Python/Flask**, además de proyectos donde exploro conceptos como Virtual DOM, gestión de estado, WebSockets, testing y microservicios.
+
+📍 Asunción, Paraguay &nbsp;|&nbsp; Penguin Academy · CodePRO
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend**
+### Markup & Styling
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -42,42 +40,54 @@ Construyo aplicaciones completas: desde APIs REST y arquitecturas de microservic
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![express-session](https://img.shields.io/badge/express--session-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Databases**
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Architecture & DevOps**
+### Architecture & Development
 
-![MVC](https://img.shields.io/badge/MVC-6C63FF?style=for-the-badge&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-6C63FF?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Testing & Tools
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧠 Áreas de interés
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [🛒 Online Store](https://github.com/victornuneez/Online-Store-Node-js) | E-commerce fullstack con panel de administración, CRUD de productos y gestión de pedidos | Node.js · Express · MongoDB · Pug · Docker |
-| [🔗 LinkAppSPA](https://github.com/victornuneez/App--Server--Backend) | API REST con frontend en React y Vanilla JS. CRUD completo, votaciones, comentarios y filtros por etiqueta | Node.js · React · Vite · MongoDB |
-| [🔧 ServiYA!](https://github.com/victornuneez/App-Services) | Directorio de proveedores de servicios locales con búsqueda en tiempo real, desplegado en GitHub Pages | HTML · CSS · JavaScript · JSON |
-| [🔐 Auth System](https://github.com/victornuneez/Authentication) | Sistema de autenticación con JWT y sesiones, control de acceso por roles | Node.js · Express · JWT · bcrypt |
-| [⚙️ Microservices](https://github.com/victornuneez/Microservices) | Ecosistema de microservicios con autenticación, gestión de tareas y sistema de logging distribuido | Python · Flask · SQLite · JWT |
-
----
+- Desarrollo backend con **JavaScript y Node.js**
+- Desarrollo frontend con **React y JavaScript**
+- Diseño y construcción de **APIs REST**
+- Arquitectura y separación de responsabilidades
+- Persistencia y modelado de datos
+- Autenticación y autorización
+- Testing y calidad de software
+- Comprensión de abstracciones y funcionamiento interno de frameworks
 
 ## 🤝 Contacto
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victornuneez)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victornuneez)
